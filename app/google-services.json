@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956317088165",
+    "firebase_url": "https://cadastrousuario-bf213.firebaseio.com",
+    "project_id": "cadastrousuario-bf213",
+    "storage_bucket": "cadastrousuario-bf213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956317088165:android:ad4e315f8a639c7a",
+        "android_client_info": {
+          "package_name": "com.claudineibjr.cadastrousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956317088165-c7tohmieug1spi47rgqd44sffhktkjuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.claudineibjr.cadastrousuario",
+            "certificate_hash": "6a288406f74e3c0314af38a1464272be9178fa58"
+          }
+        },
+        {
+          "client_id": "956317088165-erqrs06fq7api2tgvqnj8i6qstv72g4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkTnwHF1qBbEoTi4rqIwklUUhYIYyqJB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956317088165-erqrs06fq7api2tgvqnj8i6qstv72g4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
